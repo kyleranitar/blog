@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://kyleranitar.me/</loc>
+    <lastmod>2020-04-18T11:54:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kyleranitar.me/posts/my-first-post/</loc>
+    <lastmod>2020-04-18T11:54:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kyleranitar.me/posts/</loc>
+    <lastmod>2020-04-18T11:54:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kyleranitar.me/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kyleranitar.me/tags/</loc>
+  </url>
+  
+</urlset>
